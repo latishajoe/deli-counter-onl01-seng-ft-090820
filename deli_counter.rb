@@ -1,7 +1,7 @@
 katz_deli= [ ]
 
 def line(katz_deli)
-  when == 0
+when katz_deli = [ ]
    puts "The line is currently empty."
 
 
